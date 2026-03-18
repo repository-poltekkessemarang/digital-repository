@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/observasi-diskusi-komunitas-game-mahjong-ways-di-forum.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/kajian-interaksi-pemain-mahjong-ways-di-platform-digital.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/mengkaji-cognitive-load-pemain-mahjong-ways-di-balik-setiap-keputusan.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/menelaah-neuroadaptasi-pemain-mahjong-ways-terhadap-sistem-permainan.html</loc>
+    <lastmod>2026-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
