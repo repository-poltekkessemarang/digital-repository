@@ -1,46 +1,279 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/digital-repository/</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/digital-repository/observasi-diskusi-komunitas-game-mahjong-ways-di-forum.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/digital-repository/kajian-interaksi-pemain-mahjong-ways-di-platform-digital.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/digital-repository/mengkaji-cognitive-load-pemain-mahjong-ways-di-balik-setiap-keputusan.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-
   <url>
     <loc>https://repository-poltekkessemarang.github.io/digital-repository/menelaah-neuroadaptasi-pemain-mahjong-ways-terhadap-sistem-permainan.html</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/sunk-cost-fallacy-dalam-keputusan-bermain-game-digital.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/loss-aversion-pemain-game-digital-antara-takut-rugi-dan-keputusan-irasional.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/anchoring-effect-sistem-reward-game-digital-terhadap-ekspektasi-pemain.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/mental-accounting-pemain-game-online-memisahkan-uang-hiburan-dan-kebutuhan.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/hyperbolic-discounting-game-digital-mengapa-pemain-pilih-reward-kecil-sekarang.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/framing-effect-narasi-kemenangan-game-digital-yang-mempengaruhi-persepsi-pemain.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/availability-heuristic-pemain-game-digital-terjebak-cerita-menang-orang-lain.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/status-quo-bias-pemain-game-digital-yang-enggan-mengubah-strategi.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/overconfidence-bias-pemain-game-digital-antara-keyakinan-dan-realita.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/nudge-theory-desain-game-digital-yang-mengarahkan-keputusan-tanpa-paksaan.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/gacha-economy-dan-dampaknya-pada-pola-pengeluaran-pemain-indonesia.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/microtransaction-dan-ilusi-nilai-dalam-ekosistem-game-digital.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/variable-ratio-reinforcement-game-digital-mekanisme-yang-paling-sulit-dilawan.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/opportunity-cost-yang-tidak-pernah-dihitung-pemain-game-digital.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/endowment-effect-pemain-game-digital-ketika-item-virtual-terasa-milik-sendiri.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/present-bias-pemain-game-digital-mengapa-kesenangan-sekarang-selalu-menang.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/social-proof-komunitas-game-digital-dan-pengaruhnya-terhadap-keputusan-pemain.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/scarcity-principle-dalam-desain-event-game-digital-yang-menciptakan-urgensi-semu.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/pain-of-paying-game-digital-mengapa-transaksi-digital-terasa-tidak-nyata.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/peak-end-rule-pengalaman-bermain-game-digital-yang-diingat-bukan-yang-dirasakan.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/kenapa-pemain-game-digital-diam-diam-menghitung-padahal-tidak-bisa.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/momen-tepat-berhenti-yang-selalu-datang-terlambat-bagi-pemain-game.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/uang-yang-terasa-bukan-uang-dalam-ekosistem-game-digital.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/teman-yang-menang-besar-kenapa-ceritanya-selalu-lebih-dipercaya.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/momen-sedetik-sebelum-berhenti-yang-selalu-berakhir-dengan-lanjut.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/jam-malam-dan-game-digital-kenapa-keputusan-buruk-selalu-terjadi-larut-malam.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/pemain-game-digital-yang-diam-diam-menetapkan-batas-tapi-selalu-melanggarnya.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/efek-hari-gajian-terhadap-pola-bermain-game-digital-yang-jarang-dibahas.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/kenapa-pemain-game-digital-susah-cerita-jujur-tentang-pengalaman-bermainnya.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/game-digital-yang-pertama-dibuka-pagi-hari-fenomena-yang-jarang-diakui.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/rian-driver-ojol-beralih-usaha-kopi-mahjong.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/dewi-karyawan-minimarket-usaha-skincare.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/andi-buruh-pabrik-usaha-ayam-geprek.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/siti-irt-bisnis-kue-kering-mahjong.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/fajar-teknisi-ac-usaha-laundry-slot.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/lukman-satpam-usaha-konter-hp.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/rizky-mahasiswa-usaha-coffee-shop.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/nur-penjahit-bangun-brand-fashion.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/agus-pedagang-jadi-distributor-sembako.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://repository-poltekkessemarang.github.io/digital-repository/yuni-kasir-alfamart-usaha-frozen-food.html</loc>
+    <lastmod>2026-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
